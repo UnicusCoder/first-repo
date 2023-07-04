@@ -4,5 +4,6 @@ your_name = fname + " " + lname
 your_age = input("Enter your age: ")
 
 print(your_name)
-print(your_age)
+print("You're " + your_age + "years old")
+
 
